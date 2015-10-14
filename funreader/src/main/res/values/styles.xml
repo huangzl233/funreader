@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!--<item name="android:colorPrimary">@color/brigtblue</item>-->
+        <!--<item name="android:colorPrimaryDark">@color/darkblue</item>-->
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="tool_bg">@color/brigtblue</item>
+        <item name="navi_head_bg">@color/brigtblue</item>
+        <item name="text_color">@color/brigtblue</item>
+        <item name="indi_color">@color/brigtblue</item>
+    </style>
+    <style name="AppTheme1" parent="Theme.AppCompat.Light.NoActionBar">
+        <!--<item name="android:colorPrimary">@color/brightorange</item>-->
+        <!--<item name="android:colorPrimaryDark">@color/darkorange</item>-->
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="tool_bg">@color/brightorange</item>
+        <item name="navi_head_bg">@color/brightorange</item>
+        <item name="text_color">@color/brightorange</item>
+        <item name="indi_color">@color/brightorange</item>
+
+
+    </style>
+
+</resources>

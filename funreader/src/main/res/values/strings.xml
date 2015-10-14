@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">FunReader</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="page1">page1</string>
+    <string name="page2">page2</string>
+    <string name="page3">page3</string>
+    <string name="hahahs">Hahahs</string>
+    <string name="drawer_open">open</string>
+    <string name="drawer_close">close</string>
+    <string name="title_activity_setting">SettingActivity</string>
+</resources>
